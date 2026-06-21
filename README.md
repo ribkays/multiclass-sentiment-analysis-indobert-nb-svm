@@ -1,6 +1,6 @@
 This repository contains source code and datasets used in the undergraduate thesis:
 
-"IMPLEMENTASI KLASIFIKASI SENTIMEN MULTIKELAS PADA TEKS INFORMAL MENGGUNAKAN ARSITEKTUR INDOBERT: ANALISIS KOMPARATIF TERHADAP NAIVE BAYES DAN SVM"
+# "IMPLEMENTASI KLASIFIKASI SENTIMEN MULTIKELAS PADA TEKS INFORMAL MENGGUNAKAN ARSITEKTUR INDOBERT: ANALISIS KOMPARATIF TERHADAP NAIVE BAYES DAN SVM"
 
 ## Dataset
 Dataset consists of Indonesian skincare-related tweets collected from X.
@@ -16,8 +16,11 @@ Dataset consists of Indonesian skincare-related tweets collected from X.
 - Support Vector Machine (SVM)
 
 ## Repository Structure
-- data : dataset
-- code : source code
+- [Data]
+- [Code](./code)
 
 ## Author
 Mg. Ribka Yohanna Senduk
+Department of Mathematics
+Faculty of Mathematics and Natural Sciences
+Yogyakarta State University
