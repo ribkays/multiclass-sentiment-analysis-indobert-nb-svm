@@ -21,6 +21,3 @@ Dataset consists of Indonesian skincare-related tweets collected from X.
 
 ## Author
 Mg. Ribka Yohanna Senduk
-Department of Mathematics
-Faculty of Mathematics and Natural Sciences
-Yogyakarta State University
