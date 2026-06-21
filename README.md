@@ -16,7 +16,7 @@ Dataset consists of Indonesian skincare-related tweets collected from X.
 - Support Vector Machine (SVM)
 
 ## Repository Structure
-- [Data]
+- [Data](./data)
 - [Code](./code)
 
 ## Author
